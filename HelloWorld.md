@@ -1,3 +1,3 @@
-#HelloWorld.mc
-#For the datascience intro course
+## HelloWorld.md
+## For the datascience intro course
 ## This is a markdown file
